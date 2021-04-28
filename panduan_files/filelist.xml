@@ -1,34 +1,24 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../panduan.htm"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image001.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image002.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image003.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image004.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image005.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image006.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image007.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image008.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image009.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(3%20Mei%202020)_9206_image010.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (3 Mei 2020)_9206"/>
+ <o:MainFile HRef="../Panduan.htm"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image001.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image002.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image003.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image004.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image005.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image006.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image007.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image008.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image009.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_22242_image010.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_22242"/>
  <o:File HRef="filelist.xml"/>
 </xml>

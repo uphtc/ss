@@ -1,10 +1,8 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
- <o:MainFile HRef="../index.htm"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(Masterweb)_27559_image001.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (Masterweb)_27559"/>
- <o:File
-  HRef="Jadwal%20Enrichment%20Semester%20Genap%202019-2020%20(Masterweb)_27559_image002.png"
-  PublicationID="Jadwal Enrichment Semester Genap 2019-2020 (Masterweb)_27559"/>
+ <o:MainFile HRef="../Index.htm"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_17847_image001.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_17847"/>
+ <o:File HRef="JADWAL%20ENRICHMENT%20SEMESTER%20GENAP_17847_image002.png"
+  PublicationID="JADWAL ENRICHMENT SEMESTER GENAP_17847"/>
  <o:File HRef="filelist.xml"/>
 </xml>
